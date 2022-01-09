@@ -1,4 +1,4 @@
-# WelSim-apps
+# WelSim-app
 
 WELSIM® finite element analysis software helps engineers and researchers conduct simulation studies and prototype virtual products. 
 
