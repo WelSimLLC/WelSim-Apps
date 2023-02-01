@@ -14,6 +14,12 @@ A free material editing software program for researchers and engineers.
 ![Overview of MatEditor](https://github.com/WelSimLLC/MatEditor/blob/main/gallery/welsim_mateditor_curve_fitting_all_curves_in_log.png)
 
 
+# CurveFitter
+A free software program for nonlinear curve fitting of analytical functions to experimental data.
+
+![Overview of CurveFitter](https://github.com/WelSimLLC/CurveFitter/blob/main/gallery/welsim_curvefitter_overview.png)
+
+
 # UnitConverter
 A free unit conversion software program for engineers.
 
