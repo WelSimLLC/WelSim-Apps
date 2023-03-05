@@ -11,21 +11,21 @@ If you have any comments or questions, please feel free to submit a ticket at th
 # MatEditor
 A free material editing software program for researchers and engineers.
 
-![Overview of MatEditor](https://github.com/WelSimLLC/MatEditor/blob/main/gallery/welsim_mateditor_curve_fitting_all_curves_in_log.png)
+![Overview of MatEditor](https://github.com/WelSimLLC/WelSim-Apps/blob/main/galleryMatEditor/welsim_mateditor_curve_fitting_all_curves_in_log.png)
 
 
 # CurveFitter
 A free software program for nonlinear curve fitting of analytical functions to experimental data.
 
-![Overview of CurveFitter](https://github.com/WelSimLLC/CurveFitter/blob/main/gallery/welsim_curvefitter_overview.png)
+![Overview of CurveFitter](https://github.com/WelSimLLC/WelSim-Apps/blob/main/galleryCurveFitter/welsim_curvefitter_overview.png)
 
 
 # UnitConverter
 A free unit conversion software program for engineers.
 
-![Overview of UnitConverter](https://github.com/WelSimLLC/UnitConverter/blob/main/gallery/welsim_unitconverter_1.png)
+![Overview of UnitConverter](https://github.com/WelSimLLC/WelSim-Apps/blob/main/galleryUnitConverter/welsim_unitconverter_1.png)
 
 # BeamSection
 A free beam cross-section software program for engineers.
 
-![Overview of BeamSection](https://github.com/WelSimLLC/BeamSection/blob/main/gallery/beamsection_overview.png)
+![Overview of BeamSection](https://github.com/WelSimLLC/WelSim-Apps/blob/main/galleryBeamSection/beamsection_overview.png)
