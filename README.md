@@ -1,6 +1,6 @@
 # WELSIM | Quantify the Uncertain
 
-WELSIM engineering simulation software helps engineers and researchers conduct modeling studies and prototype virtual products. 
+WELSIM is the #1 engineering simulation software for the open-source community.
 
 In addtion to the flagship finite element analysis software **WELSIM**, We also developed free engineering applications for your projects, material editing and viewing software **MatEditor**, ease-to-use curve fitting application **CurveFitter**, units conversion tool **UnitConverter**, and beam cross-section properties calculator **BeamSection**. 
 
